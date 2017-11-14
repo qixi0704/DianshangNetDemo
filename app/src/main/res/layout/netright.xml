@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/fenlei2_item_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#99ff99"
+        android:textSize="30sp"
+        />
+    <TextView
+        android:id="@+id/fenlei2_item_tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#ff99"
+        />
+
+</LinearLayout>
